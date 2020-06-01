@@ -1,0 +1,22 @@
+Section "InputClass"
+        Identifier      "calibration"
+        MatchProduct    "ADS7846 Touchscreen"
+        Option  "Calibration"   "3936 227 268 3880"
+        Option  "SwapAxes"      "1"
+EndSection
+
+Section "Monitor"
+# Primary monitor. WaveShare SpotPear 480x320
+Identifier "WSSP"
+EndSection
+
+Section "Screen"
+Identifier "primary"
+Device "uga"
+Monitor "WSSP"
+EndSection
+
+Section "ServerLayout"
+Identifier "default"
+Screen 0 "primary" 0 0
+EndSection 
