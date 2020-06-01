@@ -4,10 +4,16 @@
 1.)Step1, Install Kali
 
 2.)Clone git repo LCD-show-kali_arm64
+
 sudo rm -rf LCD-show-kali_arm64
+
 git clone https://github.com/D3vD3m0n/LCD-show-kali_arm64.git
+
 chmod -R 755 LCD-show-kali_arm64
+
 cd LCD-show-kali_arm64/
+
+
 3.)Step3, According to your LCD's type, excute:
 
 In case of 2.4" RPi Display(MPI2401)
