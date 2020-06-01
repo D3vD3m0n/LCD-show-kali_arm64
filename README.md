@@ -60,3 +60,4 @@ sudo ./LCD7C-show
 If you need to switch back to the traditional HDMI display
 sudo ./LCD-hdmi
 Wait a few minutes,the system will restart automaticall , enjoy with your LCD.
+[![Solid13](https://www.heise.de/imgs/18/2/5/2/9/5/0/6/RPi-Display-16-9-7a84fba2baa662ef.jpeg)](https://github.com/D3vD3m0n/)
