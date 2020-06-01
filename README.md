@@ -1,3 +1,4 @@
+[![Solid00](https://raspberry-valley.azurewebsites.net/img/raspibanner.jpg)](https://github.com/D3vD3m0n/)| 
 # LCD-show-kali_arm64
 3.2" 3.5" 5.0" 7.0" TFT LCD Kali ARM64 driver for the Raspberry PI 2 and PI 3 
                                                                      
@@ -60,4 +61,4 @@ sudo ./LCD7C-show
 If you need to switch back to the traditional HDMI display
 sudo ./LCD-hdmi
 Wait a few minutes,the system will restart automaticall , enjoy with your LCD.
-[![Solid13](https://www.heise.de/imgs/18/2/5/2/9/5/0/6/RPi-Display-16-9-7a84fba2baa662ef.jpeg)](https://github.com/D3vD3m0n/)
+[![Solid01](https://www.heise.de/imgs/18/2/5/2/9/5/0/6/RPi-Display-16-9-7a84fba2baa662ef.jpeg)](https://github.com/D3vD3m0n/)
